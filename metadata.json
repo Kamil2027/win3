@@ -1,0 +1,6 @@
+{
+  "name": "Windows 3.1 PC Simulator",
+  "description": "Authentic Windows 3.1 experience featuring physical PC hardware with tactile power switch, BIOS POST, bootsplash loading screen, Program Manager, Minesweeper, Solitaire, Paintbrush, Calculator, and MS-DOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
